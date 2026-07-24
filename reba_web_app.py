@@ -47,7 +47,7 @@ def load_pose_model():
 mp_pose, pose_detector = load_pose_model()
 
 # =============================================
-# REBA LOOKUP TABLES  (Hignett & McAtamney, 2000)
+# REBA LOOKUP TABLES  (VLD - NLO1 Research)
 # =============================================
 TABLE_A = [
     [[1,2,3,4],[1,2,3,4],[3,3,5,6]],
