@@ -394,7 +394,7 @@ for key, default in [("result", None), ("annotated", None), ("analyzed", False)]
 # =============================================
 with st.sidebar:
     st.title("🦴 REBA Analyzer")
-    st.caption("Ergonomics Risk Assessment · NLO1 - 2026")
+    st.caption("Ergonomics Risk Assessment · VLD - NLO1 - 2026")
     st.divider()
 
     st.subheader("📁 Upload Foto")
